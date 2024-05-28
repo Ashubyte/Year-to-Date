@@ -1,0 +1,21 @@
+
+Year to Date
+Year to date (YTD) refers to the period of time beginning the first day of the current calendar year or fiscal year up to the current date.
+YTD information is useful for analyzing business trends over time or comparing performance data to competitors or peers in the same industry.
+
+Using Power BI for Year-to-Date (YTD) analysis is a common and powerful approach. Here's a simplified guide on how to perform YTD analysis in Power BI:
+Data Import: Start by importing your data into Power BI. This could be from various sources such as Excel files, databases, or cloud services.
+
+Date Table: Ensure that you have a date table in your data model.
+This table should contain a continuous sequence of dates covering the entire range of your data. 
+If you don't have one, create a date table using Power Query Editor.
+
+Calculating YTD Measures:
+Create a measure to calculate the YTD total for your metric of interest
+(e.g., sales, revenue). You can use DAX (Data Analysis Expressions) to create this measure.
+
+Visualization:
+Use Power BI's visualization tools to create charts, graphs, or tables to display your YTD data.
+
+Publish and Share:
+Once you've created your YTD analysis report, publish it to the Power BI service to share it with others in your organization
